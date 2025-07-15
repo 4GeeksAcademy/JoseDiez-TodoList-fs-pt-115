@@ -9,3 +9,34 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+h2{
+    text-align: center;
+}
+
+ul li {
+    
+    border: 2px solid rgb(139, 139, 26) ;
+    list-style: none;
+    padding: 7px;
+    display: flex;
+    background-color: #1B396C;
+    
+}
+body {
+    background-color: #3d6074;
+    margin-top: 175px;
+}
+input {
+    background-color: #1B396C;
+    border: none;
+    outline: none;
+    width: 100%;
+}
+ul{
+    padding: 0%;
+    margin-bottom: 0%;
+}
+i {
+    margin-left: auto;
+    color: #A37C27;
+}
